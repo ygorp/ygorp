@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygorp&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Técnologias que eu utilizo no meu dia: 
 
 <div style="display: inline_block"><br/>

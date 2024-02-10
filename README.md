@@ -17,6 +17,7 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=61DAFB">
+    <img align="center" alt="csharp" src="https://img.shields.io/badge/Csharp-20232A?style=for-the-badge&logo=django&logoColor=61DAFB">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB">
 </div>
 

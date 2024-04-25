@@ -14,12 +14,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB">
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=61DAFB">
-    <img align="center" alt="Csharp" src="https://img.shields.io/badge/Csharp-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB">
-    <img align="center" alt="DotNet" src="https://img.shields.io/badge/Dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB">
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=BEB7DF">
+    <img align="center" alt="Csharp" src="https://img.shields.io/badge/Csharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=34113F">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=F3A738">
+    <img align="center" alt="unity" src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=2F2F2F">
 </div>
 
 ##### Apaixonado por tecnologia, resolução de problemas utilizando a tecnologia!

@@ -15,9 +15,8 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=BEB7DF">
-    <img align="center" alt="Csharp" src="https://img.shields.io/badge/Csharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=34113F">
+    <img align="center" alt="python" src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=34113F">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=F3A738">
-    <img align="center" alt="unity" src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=2F2F2F">
 </div>
 
 ##### Apaixonado por tecnologia, resolução de problemas utilizando a tecnologia!

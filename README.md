@@ -17,6 +17,8 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=BEB7DF">
     <img align="center" alt="python" src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=34113F">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=F3A738">
+    <img align="center" alt="wordpress" src="https://img.shields.io/badge/wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=F3A738">
+    <img align="center" alt="elementor" src="https://img.shields.io/badge/elementor-FFFFFF?style=for-the-badge&logo=elementor&logoColor=F3A738">
 </div>
 
 ##### Apaixonado por tecnologia, resolução de problemas utilizando a tecnologia!
